@@ -27,6 +27,13 @@ This commands includes
 <BR>
 
 ## Output
+## ping
+
+![Screenshot 2024-04-20 122706](https://github.com/Danica-christa/4.Execution_of_NetworkCommends/assets/151514009/c7742db4-1a52-40a3-b434-da584e0a7181)
+## tracert
+
+![Screenshot 2024-04-20 122600](https://github.com/Danica-christa/4.Execution_of_NetworkCommends/assets/151514009/6f00fb5d-1844-4608-908c-d822af1e8d71)
+
 
 ## Result
 Thus Execution of Network commands Performed 
